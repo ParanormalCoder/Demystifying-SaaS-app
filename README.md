@@ -1,5 +1,5 @@
-# Sinatra sample app
-Sinatra sample app
+# Sinatra sample application
+This repository represents a simple implementation of a ruby web application based on the Sinatra framework. Sinatra is a choice for the light-weight web applications, which is prefered to Rails framework.
 
 ## How to run
 Please following command to install all the required gem modules:
