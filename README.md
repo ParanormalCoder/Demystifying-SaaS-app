@@ -1,2 +1,2 @@
-# Demystifying SaaS Application
-Demystifying SaaS app
+# sinatra sample app
+Sinatra sample app
